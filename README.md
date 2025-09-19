@@ -32,8 +32,10 @@ All core features from the official requirements have been implemented ✅.
 - Role-based access control (Admin vs User)  
 
 📸 *Screenshots:*  
-- ![Register](images/register.jpg)  
-- ![Login](images/login.jpg)  
+<p align="center">
+  <img src="images/register.jpg" width="45%"/>
+  <img src="images/login.jpg" width="45%"/>
+</p>
 
 ---
 
@@ -44,8 +46,10 @@ All core features from the official requirements have been implemented ✅.
 - Delete quizzes  
 
 📸 *Screenshots:*  
-- ![Admin Create Quiz](images/admin-create-quiz.jpg)  
-- ![Admin Add Question](images/admin-add-question.jpg)  
+<p align="center">
+  <img src="images/admin-create-quiz.jpg" width="45%"/>
+  <img src="images/admin-add-question.jpg" width="45%"/>
+</p>
 
 ---
 
@@ -55,9 +59,11 @@ All core features from the official requirements have been implemented ✅.
 - Submit **entire quiz** at once → get final score  
 
 📸 *Screenshots:*  
-- ![Get All Questions](images/user-get-questions.jpg)  
-- ![Immediate Feedback](images/user-answer-feedback.jpg)  
-- ![Submit Quiz & Score](images/user-submit-quiz-score.png)  
+<p align="center">
+  <img src="images/user-get-questions.jpg" width="32%"/>
+  <img src="images/user-answer-feedback.png.jpg" width="32%"/>
+  <img src="images/user-submit-quiz-score.jpg" width="32%"/>
+</p>
 
 ---
 
@@ -67,7 +73,9 @@ All core features from the official requirements have been implemented ✅.
 - Users can **view their past attempts & progress**  
 
 📸 *Screenshot:*  
-- ![User Attempts](images/user-attempts.jpg)  
+<p align="center">
+  <img src="images/user-attempts.png" width="60%"/>
+</p>
 
 ---
 
@@ -145,14 +153,14 @@ App runs at: `http://localhost:8080`
 * **quiz\_attempts** (id, user\_id, quiz\_id, score, attempt\_date)
 
 ---
+
 ## 🎯 Conclusion
 
 All mandatory requirements from the project specification have been implemented:
 
-- ✔️ Authentication (Register/Login with secure passwords)  
-- ✔️ Admin Quiz Management (CRUD + questions)  
-- ✔️ User Quiz Taking (questions, per-question feedback, scoring)  
-- ✔️ Progress Tracking (attempts & scores history)  
-- ✔️ Role-based Security (JWT)  
-- ✔️ Database persistence  
-
+* ✔️ Authentication (Register/Login with secure passwords)
+* ✔️ Admin Quiz Management (CRUD + questions)
+* ✔️ User Quiz Taking (questions, per-question feedback, scoring)
+* ✔️ Progress Tracking (attempts & scores history)
+* ✔️ Role-based Security (JWT)
+* ✔️ Database persistence
