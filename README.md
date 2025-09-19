@@ -57,7 +57,7 @@ All core features from the official requirements have been implemented ✅.
 📸 *Screenshots:*  
 - ![Get All Questions](images/user-get-questions.jpg)  
 - ![Immediate Feedback](images/user-answer-feedback.jpg)  
-- ![Submit Quiz & Score](images/user-submit-quiz-score.jpg)  
+- ![Submit Quiz & Score](images/user-submit-quiz-score.png)  
 
 ---
 
@@ -145,16 +145,14 @@ App runs at: `http://localhost:8080`
 * **quiz\_attempts** (id, user\_id, quiz\_id, score, attempt\_date)
 
 ---
-
 ## 🎯 Conclusion
 
 All mandatory requirements from the project specification have been implemented:
-✔️ Authentication (Register/Login with secure passwords)
-✔️ Admin Quiz Management (CRUD + questions)
-✔️ User Quiz Taking (questions, per-question feedback, scoring)
-✔️ Progress Tracking (attempts & scores history)
-✔️ Role-based Security (JWT)
-✔️ Database persistence
 
-```
+- ✔️ Authentication (Register/Login with secure passwords)  
+- ✔️ Admin Quiz Management (CRUD + questions)  
+- ✔️ User Quiz Taking (questions, per-question feedback, scoring)  
+- ✔️ Progress Tracking (attempts & scores history)  
+- ✔️ Role-based Security (JWT)  
+- ✔️ Database persistence  
 
