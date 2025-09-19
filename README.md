@@ -2,7 +2,9 @@
 # 📝 Online Quiz Application (Backend Only)
 
 ### 📌 Internship Project – InnoByte Services  
-Internship ID: **IS/A1/G5796**
+Internship ID: **IS/A1/G5796**  
+Project ID: **65HIBKJS**  
+📅 Duration: 1st Sept 2025 – 30th Sept 2025
 
 ---
 
