@@ -2,7 +2,7 @@
 # 📝 Online Quiz Application (Backend Only)
 
 ### 📌 Internship Project – InnoByte Services  
-Project ID: **65HIBKJS**
+Internship ID: **IS/A1/G5796**
 
 ---
 
